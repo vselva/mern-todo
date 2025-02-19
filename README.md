@@ -36,7 +36,7 @@ cd mern-todo-app
    ```sh
    node server.js
    ```
-   The backend server will run on `http://localhost:3000`
+   The backend server will run on `http://localhost:8000`
 
 ### 3. Set Up the Frontend (React)
 
@@ -57,7 +57,7 @@ cd mern-todo-app
    ```sh
    npm start
    ```
-   The frontend app will run on `http://localhost:8000`
+   The frontend app will run on `http://localhost:3000`
 
 ## Usage
 
